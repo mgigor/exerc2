@@ -1,0 +1,11 @@
+* Item de configuração de software
+* Controle de configuração
+* Versão
+* Baseline
+* Codeline
+* Mainline
+* Release
+* Espaço de trabalho
+* Branching
+* Merging
+* Construção do sistema
