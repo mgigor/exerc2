@@ -1,0 +1,1 @@
+A Gerência de Configuração de Software tem como objetivo gerenciar e controlar a evolução de um software através do controle formal de versão e solicitação de mudanças.
