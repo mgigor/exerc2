@@ -1,11 +1,31 @@
 * Item de configuração de software
+	-
+
 * Controle de configuração
+	-
 * Versão
+	-
+
 * Baseline
+	- Coleção de versões de componentes que compõem um sistema;
+
 * Codeline
+	- Conjunto de versões de um componente de software e outros itens de configuração dos quais esse componente depende;
+
 * Mainline
+	- Sequência de baselines que representam diferentes versões de um sistema;
+
 * Release
+	- Uma versão do sistema que foi liberada para uso;
+
 * Espaço de trabalho
+	-
+
 * Branching
+	-
+
 * Merging
+	-
+
 * Construção do sistema
+	-
