@@ -1,11 +1,32 @@
 * Item de configuração de software
+	- Qualquer coisa associada a um projeto de software que tenha sido colocado sob controle de configuração;
+
 * Controle de configuração
+	- Registra e mantém versões de sistemas e componentes;
+
 * Versão
+	- Uma instância de um item de configuração que difere, de alguma forma, de outras instâncias deste item;
+
 * Baseline
+	-
+
 * Codeline
+	-
+
 * Mainline
+	-
+
 * Release
+	-
+
 * Espaço de trabalho
+	- Área de trabalho privada
+
 * Branching
+	- Cria uma nova codeline de uma versão em uma codeline existente;
+
 * Merging
+	- Cria uma nova versão de um componente de software fusão de versões separadas em diferentes codelines;
+
 * Construção do sistema
+	- Compilação + Ligação + Bibliotecas;
