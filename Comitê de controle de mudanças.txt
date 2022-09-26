@@ -1,3 +1,5 @@
+Bla Bla Bla
+
 As mudanças podem ser revisadas por um grupo externo, que:
 	- decide se elas são ou não adequadas em termos de custo, tempo e risco;
 	- ponto de vista estratégico ou organizacional ao invés de um ponto de vista técnico.
