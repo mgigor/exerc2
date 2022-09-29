@@ -5,4 +5,4 @@ As mudanças podem ser revisadas por um grupo externo, que:
 O CCB pode possuir representantes do cliente, fornecedor e time desenvolvimento. 
 
 Esse grupo é, algumas vezes, chamado de comitê de controle de mudanças (CCB). 
-
+"Adicionado explicação do Comitê de Controle de Mudanças"
