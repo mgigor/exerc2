@@ -7,18 +7,6 @@
 * Versão
 	- Uma instância de um item de configuração que difere, de alguma forma, de outras instâncias deste item;
 
-* Baseline
-	-
-
-* Codeline
-	-
-
-* Mainline
-	-
-
-* Release
-	-
-
 * Espaço de trabalho
 	- Área de trabalho privada
 
@@ -30,3 +18,16 @@
 
 * Construção do sistema
 	- Compilação + Ligação + Bibliotecas;
+
+* Baseline
+	- Coleção de versões de componentes que compõem um sistema;
+
+* Codeline
+	- Conjunto de versões de um componente de software e outros itens de configuração dos quais esse componente depende;
+
+* Mainline
+	- Sequência de baselines que representam diferentes versões de um sistema;
+
+* Release
+	- Uma versão do sistema que foi liberada para uso;
+
